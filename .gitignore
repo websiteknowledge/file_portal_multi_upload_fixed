@@ -1,0 +1,12 @@
+# Don’t upload secrets
+.env
+
+# Don’t upload uploaded files
+uploads/
+
+# Node modules (always ignore)
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
